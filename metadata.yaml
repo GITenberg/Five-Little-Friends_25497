@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '2533'
     url: http://www.gutenberg.org/2009/agents/2533
 description: The five little friends at school -- The five little friends in vacation.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25497#Five-Little-Friends
 gutenberg_issued: '2008-05-17'
 gutenberg_type: Text
 identifiers:

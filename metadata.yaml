@@ -1,0 +1,44 @@
+_repo: Five-Little-Friends_25497
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Petersham, Miska
+    aliases:
+    - Petrezselyem, Mihály
+    - Petrezselyem, Mihaly
+    birthdate: 1888
+    deathdate: 1960
+    gutenberg_agent_id: '31374'
+    url: http://www.gutenberg.org/2009/agents/31374
+    wikipedia: http://en.wikipedia.org/wiki/Maud_and_Miska_Petersham
+  - agent_name: Petersham, Maud
+    aliases:
+    - Petersham, Maud Fuller
+    - Fuller, Maud
+    birthdate: 1890
+    deathdate: 1971
+    gutenberg_agent_id: '31375'
+    url: http://www.gutenberg.org/2009/agents/31375
+    wikipedia: http://en.wikipedia.org/wiki/Maud_and_Miska_Petersham
+covers:
+- cover_type: archival
+  image_path: 25497-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Adams, Sherred Willcox
+    gutenberg_agent_id: '2533'
+    url: http://www.gutenberg.org/2009/agents/2533
+description: The five little friends at school -- The five little friends in vacation.
+gutenberg_issued: '2008-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+title: Five Little Friends
+url: http://www.gutenberg.org/ebooks/25497
